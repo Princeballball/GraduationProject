@@ -15,3 +15,7 @@ Desktop.ini
 .vscode/
 .history/
 *.code-workspace
+**/xcuserdata/
+**/DerivedData/
+.xcschemes/
+*.xcworkspace/xcshareddata/xcschemes/
